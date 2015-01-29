@@ -1,2 +1,9 @@
-# ans_trans_template
-The ANS Transactions Latex Template 
+ANS Transactions LaTeX template
+===============================
+
+Taken from http://www.ans.org/meetings/c_1 and added a Makefile.
+
+Compiling
+----------------
+
+    >$ make
